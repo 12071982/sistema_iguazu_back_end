@@ -1,0 +1,146 @@
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Utilitarios\bin\Debug\net6.0\Utilitarios.deps.json
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Utilitarios\bin\Debug\net6.0\Utilitarios.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Utilitarios\bin\Debug\net6.0\Utilitarios.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\Utilitarios.GeneratedMSBuildEditorConfig.editorconfig
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\Utilitarios.AssemblyInfoInputs.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\Utilitarios.AssemblyInfo.cs
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\Utilitarios.csproj.CoreCompileInputs.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\Utilitarios.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\ref\Utilitarios.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\Utilitarios.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\Utilitarios.csproj.AssemblyReference.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\refint\Utilitarios.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Utilitarios\bin\Debug\net6.0\Utilitarios.deps.json
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Utilitarios\bin\Debug\net6.0\Utilitarios.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Utilitarios\bin\Debug\net6.0\Utilitarios.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\Utilitarios.csproj.AssemblyReference.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\Utilitarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\Utilitarios.AssemblyInfoInputs.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\Utilitarios.AssemblyInfo.cs
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\Utilitarios.csproj.CoreCompileInputs.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\Utilitarios.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\refint\Utilitarios.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\Utilitarios.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\ref\Utilitarios.dll
+D:\LM\LastmenBackend\Utilitarios\bin\Debug\net6.0\Utilitarios.deps.json
+D:\LM\LastmenBackend\Utilitarios\bin\Debug\net6.0\Utilitarios.dll
+D:\LM\LastmenBackend\Utilitarios\bin\Debug\net6.0\Utilitarios.pdb
+D:\LM\LastmenBackend\Utilitarios\obj\Debug\net6.0\Utilitarios.csproj.AssemblyReference.cache
+D:\LM\LastmenBackend\Utilitarios\obj\Debug\net6.0\Utilitarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\LM\LastmenBackend\Utilitarios\obj\Debug\net6.0\Utilitarios.AssemblyInfoInputs.cache
+D:\LM\LastmenBackend\Utilitarios\obj\Debug\net6.0\Utilitarios.AssemblyInfo.cs
+D:\LM\LastmenBackend\Utilitarios\obj\Debug\net6.0\Utilitarios.csproj.CoreCompileInputs.cache
+D:\LM\LastmenBackend\Utilitarios\obj\Debug\net6.0\Utilitarios.dll
+D:\LM\LastmenBackend\Utilitarios\obj\Debug\net6.0\refint\Utilitarios.dll
+D:\LM\LastmenBackend\Utilitarios\obj\Debug\net6.0\Utilitarios.pdb
+D:\LM\LastmenBackend\Utilitarios\obj\Debug\net6.0\ref\Utilitarios.dll
+E:\Lasnet\BackendLastmen\Utilitarios\bin\Debug\net6.0\Utilitarios.deps.json
+E:\Lasnet\BackendLastmen\Utilitarios\bin\Debug\net6.0\Utilitarios.dll
+E:\Lasnet\BackendLastmen\Utilitarios\bin\Debug\net6.0\Utilitarios.pdb
+E:\Lasnet\BackendLastmen\Utilitarios\obj\Debug\net6.0\Utilitarios.csproj.AssemblyReference.cache
+E:\Lasnet\BackendLastmen\Utilitarios\obj\Debug\net6.0\Utilitarios.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lasnet\BackendLastmen\Utilitarios\obj\Debug\net6.0\Utilitarios.AssemblyInfoInputs.cache
+E:\Lasnet\BackendLastmen\Utilitarios\obj\Debug\net6.0\Utilitarios.AssemblyInfo.cs
+E:\Lasnet\BackendLastmen\Utilitarios\obj\Debug\net6.0\Utilitarios.csproj.CoreCompileInputs.cache
+E:\Lasnet\BackendLastmen\Utilitarios\obj\Debug\net6.0\Utilitarios.dll
+E:\Lasnet\BackendLastmen\Utilitarios\obj\Debug\net6.0\refint\Utilitarios.dll
+E:\Lasnet\BackendLastmen\Utilitarios\obj\Debug\net6.0\Utilitarios.pdb
+E:\Lasnet\BackendLastmen\Utilitarios\obj\Debug\net6.0\ref\Utilitarios.dll
+E:\Lastmen\BackendLastmen\Utilitarios\bin\Debug\net6.0\Utilitarios.deps.json
+E:\Lastmen\BackendLastmen\Utilitarios\bin\Debug\net6.0\Utilitarios.dll
+E:\Lastmen\BackendLastmen\Utilitarios\bin\Debug\net6.0\Utilitarios.pdb
+E:\Lastmen\BackendLastmen\Utilitarios\obj\Debug\net6.0\Utilitarios.csproj.AssemblyReference.cache
+E:\Lastmen\BackendLastmen\Utilitarios\obj\Debug\net6.0\Utilitarios.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lastmen\BackendLastmen\Utilitarios\obj\Debug\net6.0\Utilitarios.AssemblyInfoInputs.cache
+E:\Lastmen\BackendLastmen\Utilitarios\obj\Debug\net6.0\Utilitarios.AssemblyInfo.cs
+E:\Lastmen\BackendLastmen\Utilitarios\obj\Debug\net6.0\Utilitarios.csproj.CoreCompileInputs.cache
+E:\Lastmen\BackendLastmen\Utilitarios\obj\Debug\net6.0\Utilitarios.dll
+E:\Lastmen\BackendLastmen\Utilitarios\obj\Debug\net6.0\refint\Utilitarios.dll
+E:\Lastmen\BackendLastmen\Utilitarios\obj\Debug\net6.0\Utilitarios.pdb
+E:\Lastmen\BackendLastmen\Utilitarios\obj\Debug\net6.0\ref\Utilitarios.dll
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\bin\Debug\net6.0\Utilitarios.deps.json
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\bin\Debug\net6.0\Utilitarios.dll
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\bin\Debug\net6.0\Utilitarios.pdb
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\obj\Debug\net6.0\Utilitarios.csproj.AssemblyReference.cache
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\obj\Debug\net6.0\Utilitarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\obj\Debug\net6.0\Utilitarios.AssemblyInfoInputs.cache
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\obj\Debug\net6.0\Utilitarios.AssemblyInfo.cs
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\obj\Debug\net6.0\Utilitarios.csproj.CoreCompileInputs.cache
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\obj\Debug\net6.0\Utilitarios.dll
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\obj\Debug\net6.0\refint\Utilitarios.dll
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\obj\Debug\net6.0\Utilitarios.pdb
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\obj\Debug\net6.0\ref\Utilitarios.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Utilitarios\bin\Debug\net6.0\Utilitarios.deps.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Utilitarios\bin\Debug\net6.0\Utilitarios.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Utilitarios\bin\Debug\net6.0\Utilitarios.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Utilitarios\obj\Debug\net6.0\Utilitarios.csproj.AssemblyReference.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Utilitarios\obj\Debug\net6.0\Utilitarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Utilitarios\obj\Debug\net6.0\Utilitarios.AssemblyInfoInputs.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Utilitarios\obj\Debug\net6.0\Utilitarios.AssemblyInfo.cs
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Utilitarios\obj\Debug\net6.0\Utilitarios.csproj.CoreCompileInputs.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Utilitarios\obj\Debug\net6.0\Utilitarios.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Utilitarios\obj\Debug\net6.0\refint\Utilitarios.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Utilitarios\obj\Debug\net6.0\Utilitarios.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Utilitarios\obj\Debug\net6.0\ref\Utilitarios.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\Utilitarios\bin\Debug\net6.0\Utilitarios.deps.json
+D:\Z-PROYECTO\3. app web\BackendLastmen\Utilitarios\bin\Debug\net6.0\Utilitarios.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\Utilitarios\bin\Debug\net6.0\Utilitarios.pdb
+D:\Z-PROYECTO\3. app web\BackendLastmen\Utilitarios\obj\Debug\net6.0\Utilitarios.csproj.AssemblyReference.cache
+D:\Z-PROYECTO\3. app web\BackendLastmen\Utilitarios\obj\Debug\net6.0\Utilitarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Z-PROYECTO\3. app web\BackendLastmen\Utilitarios\obj\Debug\net6.0\Utilitarios.AssemblyInfoInputs.cache
+D:\Z-PROYECTO\3. app web\BackendLastmen\Utilitarios\obj\Debug\net6.0\Utilitarios.AssemblyInfo.cs
+D:\Z-PROYECTO\3. app web\BackendLastmen\Utilitarios\obj\Debug\net6.0\Utilitarios.csproj.CoreCompileInputs.cache
+D:\Z-PROYECTO\3. app web\BackendLastmen\Utilitarios\obj\Debug\net6.0\Utilitarios.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\Utilitarios\obj\Debug\net6.0\refint\Utilitarios.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\Utilitarios\obj\Debug\net6.0\Utilitarios.pdb
+D:\Z-PROYECTO\3. app web\BackendLastmen\Utilitarios\obj\Debug\net6.0\ref\Utilitarios.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Utilitarios\bin\Debug\net6.0\Utilitarios.deps.json
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Utilitarios\bin\Debug\net6.0\Utilitarios.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Utilitarios\bin\Debug\net6.0\Utilitarios.pdb
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Utilitarios\obj\Debug\net6.0\Utilitarios.csproj.AssemblyReference.cache
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Utilitarios\obj\Debug\net6.0\Utilitarios.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Utilitarios\obj\Debug\net6.0\Utilitarios.AssemblyInfoInputs.cache
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Utilitarios\obj\Debug\net6.0\Utilitarios.AssemblyInfo.cs
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Utilitarios\obj\Debug\net6.0\Utilitarios.csproj.CoreCompileInputs.cache
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Utilitarios\obj\Debug\net6.0\Utilitarios.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Utilitarios\obj\Debug\net6.0\refint\Utilitarios.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Utilitarios\obj\Debug\net6.0\Utilitarios.pdb
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Utilitarios\obj\Debug\net6.0\ref\Utilitarios.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\Utilitarios\obj\Debug\net6.0\Utilitarios.sourcelink.json
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Utilitarios\bin\Debug\net6.0\Utilitarios.deps.json
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Utilitarios\bin\Debug\net6.0\Utilitarios.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Utilitarios\bin\Debug\net6.0\Utilitarios.pdb
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Utilitarios\obj\Debug\net6.0\Utilitarios.csproj.AssemblyReference.cache
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Utilitarios\obj\Debug\net6.0\Utilitarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Utilitarios\obj\Debug\net6.0\Utilitarios.AssemblyInfoInputs.cache
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Utilitarios\obj\Debug\net6.0\Utilitarios.AssemblyInfo.cs
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Utilitarios\obj\Debug\net6.0\Utilitarios.csproj.CoreCompileInputs.cache
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Utilitarios\obj\Debug\net6.0\Utilitarios.sourcelink.json
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Utilitarios\obj\Debug\net6.0\Utilitarios.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Utilitarios\obj\Debug\net6.0\refint\Utilitarios.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Utilitarios\obj\Debug\net6.0\Utilitarios.pdb
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Utilitarios\obj\Debug\net6.0\ref\Utilitarios.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\bin\Debug\net6.0\Utilitarios.deps.json
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\bin\Debug\net6.0\Utilitarios.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\bin\Debug\net6.0\Utilitarios.pdb
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\obj\Debug\net6.0\Utilitarios.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\obj\Debug\net6.0\Utilitarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\obj\Debug\net6.0\Utilitarios.AssemblyInfoInputs.cache
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\obj\Debug\net6.0\Utilitarios.AssemblyInfo.cs
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\obj\Debug\net6.0\Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\obj\Debug\net6.0\Utilitarios.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\obj\Debug\net6.0\refint\Utilitarios.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\obj\Debug\net6.0\Utilitarios.pdb
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\obj\Debug\net6.0\ref\Utilitarios.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\bin\Debug\net6.0\Utilitarios.deps.json
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\bin\Debug\net6.0\Utilitarios.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\bin\Debug\net6.0\Utilitarios.pdb
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\obj\Debug\net6.0\Utilitarios.csproj.AssemblyReference.cache
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\obj\Debug\net6.0\Utilitarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\obj\Debug\net6.0\Utilitarios.AssemblyInfoInputs.cache
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\obj\Debug\net6.0\Utilitarios.AssemblyInfo.cs
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\obj\Debug\net6.0\Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\obj\Debug\net6.0\Utilitarios.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\obj\Debug\net6.0\refint\Utilitarios.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\obj\Debug\net6.0\Utilitarios.pdb
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\obj\Debug\net6.0\ref\Utilitarios.dll

@@ -1,0 +1,264 @@
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\appsettings.json
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Tours_Express.staticwebassets.runtime.json
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Tours_Express.exe
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Tours_Express.deps.json
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Tours_Express.runtimeconfig.json
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Tours_Express.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Tours_Express.pdb
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Humanizer.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Logica.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Modelos.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Repositorio.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Utilitarios.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Logica.pdb
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Utilitarios.pdb
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Modelos.pdb
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\bin\Debug\net6.0\Repositorio.pdb
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\obj\Debug\net6.0\Tours_Express.csproj.AssemblyReference.cache
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\obj\Debug\net6.0\Tours_Express.GeneratedMSBuildEditorConfig.editorconfig
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\obj\Debug\net6.0\Tours_Express.AssemblyInfoInputs.cache
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\obj\Debug\net6.0\Tours_Express.AssemblyInfo.cs
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\obj\Debug\net6.0\Tours_Express.csproj.CoreCompileInputs.cache
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\obj\Debug\net6.0\Tours_Express.MvcApplicationPartsAssemblyInfo.cs
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\obj\Debug\net6.0\Tours_Express.MvcApplicationPartsAssemblyInfo.cache
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\obj\Debug\net6.0\Tours_Express.sourcelink.json
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\obj\Debug\net6.0\staticwebassets\msbuild.Tours_Express.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\obj\Debug\net6.0\staticwebassets\msbuild.build.Tours_Express.props
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Tours_Express.props
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Tours_Express.props
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\obj\Debug\net6.0\scopedcss\bundle\Tours_Express.styles.css
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\obj\Debug\net6.0\Tours_Ex.091CEF9A.Up2Date
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\obj\Debug\net6.0\Tours_Express.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\obj\Debug\net6.0\refint\Tours_Express.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\obj\Debug\net6.0\Tours_Express.pdb
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\obj\Debug\net6.0\Tours_Express.genruntimeconfig.cache
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\PersonalApi\obj\Debug\net6.0\ref\Tours_Express.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\appsettings.json
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Tours_Express.staticwebassets.runtime.json
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Tours_Express.staticwebassets.endpoints.json
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Tours_Express.exe
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Tours_Express.deps.json
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Tours_Express.runtimeconfig.json
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Tours_Express.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Tours_Express.pdb
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Logica.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Modelos.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Repositorio.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Utilitarios.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Logica.pdb
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Utilitarios.pdb
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Modelos.pdb
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Repositorio.pdb
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\Tours_Express.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\Tours_Express.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\Tours_Express.AssemblyInfoInputs.cache
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\Tours_Express.AssemblyInfo.cs
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\Tours_Express.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\Tours_Express.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\Tours_Express.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\scopedcss\bundle\Tours_Express.styles.css
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\staticwebassets\msbuild.Tours_Express.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\staticwebassets\msbuild.Tours_Express.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\staticwebassets\msbuild.build.Tours_Express.props
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Tours_Express.props
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Tours_Express.props
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\Tours_Ex.091CEF9A.Up2Date
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\Tours_Express.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\refint\Tours_Express.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\Tours_Express.pdb
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\Tours_Express.genruntimeconfig.cache
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\ref\Tours_Express.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\appsettings.json
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Tours_Express.staticwebassets.runtime.json
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Tours_Express.exe
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Tours_Express.deps.json
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Tours_Express.runtimeconfig.json
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Tours_Express.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Tours_Express.pdb
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Logica.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Modelos.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Repositorio.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Utilitarios.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Logica.pdb
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Utilitarios.pdb
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Modelos.pdb
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Repositorio.pdb
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\Tours_Express.csproj.AssemblyReference.cache
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\Tours_Express.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\Tours_Express.AssemblyInfoInputs.cache
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\Tours_Express.AssemblyInfo.cs
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\Tours_Express.csproj.CoreCompileInputs.cache
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\Tours_Express.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\Tours_Express.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\scopedcss\bundle\Tours_Express.styles.css
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\Tours_Express.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\refint\Tours_Express.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\Tours_Express.pdb
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\Tours_Express.genruntimeconfig.cache
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\ref\Tours_Express.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\PuppeteerSharp.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\RazorLight.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\PersonalApi\obj\Debug\net6.0\Tours_Ex.091CEF9A.Up2Date

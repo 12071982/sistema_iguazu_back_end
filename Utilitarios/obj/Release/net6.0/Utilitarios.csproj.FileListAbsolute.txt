@@ -1,0 +1,24 @@
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\bin\Release\net6.0\Utilitarios.deps.json
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\bin\Release\net6.0\Utilitarios.dll
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\bin\Release\net6.0\Utilitarios.pdb
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\obj\Release\net6.0\Utilitarios.csproj.AssemblyReference.cache
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\obj\Release\net6.0\Utilitarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\obj\Release\net6.0\Utilitarios.AssemblyInfoInputs.cache
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\obj\Release\net6.0\Utilitarios.AssemblyInfo.cs
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\obj\Release\net6.0\Utilitarios.csproj.CoreCompileInputs.cache
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\obj\Release\net6.0\Utilitarios.dll
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\obj\Release\net6.0\refint\Utilitarios.dll
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\obj\Release\net6.0\Utilitarios.pdb
+D:\PROYECTO\APP WEB\BackendLastmen\Utilitarios\obj\Release\net6.0\ref\Utilitarios.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\bin\Release\net6.0\Utilitarios.deps.json
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\bin\Release\net6.0\Utilitarios.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\bin\Release\net6.0\Utilitarios.pdb
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\obj\Release\net6.0\Utilitarios.csproj.AssemblyReference.cache
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\obj\Release\net6.0\Utilitarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\obj\Release\net6.0\Utilitarios.AssemblyInfoInputs.cache
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\obj\Release\net6.0\Utilitarios.AssemblyInfo.cs
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\obj\Release\net6.0\Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\obj\Release\net6.0\Utilitarios.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\obj\Release\net6.0\refint\Utilitarios.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\obj\Release\net6.0\Utilitarios.pdb
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Utilitarios\obj\Release\net6.0\ref\Utilitarios.dll

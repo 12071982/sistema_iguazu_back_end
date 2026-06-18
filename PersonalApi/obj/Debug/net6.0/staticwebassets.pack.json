@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Documents\\YESICA\\BACKEND\\sistema_iguazu_back_end-main\\PersonalApi\\wwwroot\\uploads\\products\\Producto-1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\Producto-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Documents\\YESICA\\BACKEND\\sistema_iguazu_back_end-main\\PersonalApi\\wwwroot\\uploads\\products\\Producto-2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\Producto-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Documents\\YESICA\\BACKEND\\sistema_iguazu_back_end-main\\PersonalApi\\wwwroot\\uploads\\products\\Producto-6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\Producto-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Documents\\YESICA\\BACKEND\\sistema_iguazu_back_end-main\\PersonalApi\\wwwroot\\uploads\\products\\Producto-7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\Producto-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Documents\\YESICA\\BACKEND\\sistema_iguazu_back_end-main\\PersonalApi\\wwwroot\\uploads\\products\\Producto-8.png",
+      "PackagePath": "staticwebassets\\uploads\\products\\Producto-8.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Tours_Express.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Tours_Express.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Tours_Express.props",
+      "PackagePath": "build\\Tours_Express.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Tours_Express.props",
+      "PackagePath": "buildMultiTargeting\\Tours_Express.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Tours_Express.props",
+      "PackagePath": "buildTransitive\\Tours_Express.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

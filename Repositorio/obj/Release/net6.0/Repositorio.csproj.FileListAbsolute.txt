@@ -1,0 +1,38 @@
+D:\PROYECTO\APP WEB\BackendLastmen\Repositorio\bin\Release\net6.0\Repositorio.deps.json
+D:\PROYECTO\APP WEB\BackendLastmen\Repositorio\bin\Release\net6.0\Repositorio.runtimeconfig.json
+D:\PROYECTO\APP WEB\BackendLastmen\Repositorio\bin\Release\net6.0\Repositorio.dll
+D:\PROYECTO\APP WEB\BackendLastmen\Repositorio\bin\Release\net6.0\Repositorio.pdb
+D:\PROYECTO\APP WEB\BackendLastmen\Repositorio\bin\Release\net6.0\Modelos.dll
+D:\PROYECTO\APP WEB\BackendLastmen\Repositorio\bin\Release\net6.0\Utilitarios.dll
+D:\PROYECTO\APP WEB\BackendLastmen\Repositorio\bin\Release\net6.0\Modelos.pdb
+D:\PROYECTO\APP WEB\BackendLastmen\Repositorio\bin\Release\net6.0\Utilitarios.pdb
+D:\PROYECTO\APP WEB\BackendLastmen\Repositorio\obj\Release\net6.0\Repositorio.csproj.AssemblyReference.cache
+D:\PROYECTO\APP WEB\BackendLastmen\Repositorio\obj\Release\net6.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTO\APP WEB\BackendLastmen\Repositorio\obj\Release\net6.0\Repositorio.AssemblyInfoInputs.cache
+D:\PROYECTO\APP WEB\BackendLastmen\Repositorio\obj\Release\net6.0\Repositorio.AssemblyInfo.cs
+D:\PROYECTO\APP WEB\BackendLastmen\Repositorio\obj\Release\net6.0\Repositorio.csproj.CoreCompileInputs.cache
+D:\PROYECTO\APP WEB\BackendLastmen\Repositorio\obj\Release\net6.0\Repositorio.csproj.CopyComplete
+D:\PROYECTO\APP WEB\BackendLastmen\Repositorio\obj\Release\net6.0\Repositorio.dll
+D:\PROYECTO\APP WEB\BackendLastmen\Repositorio\obj\Release\net6.0\refint\Repositorio.dll
+D:\PROYECTO\APP WEB\BackendLastmen\Repositorio\obj\Release\net6.0\Repositorio.pdb
+D:\PROYECTO\APP WEB\BackendLastmen\Repositorio\obj\Release\net6.0\Repositorio.genruntimeconfig.cache
+D:\PROYECTO\APP WEB\BackendLastmen\Repositorio\obj\Release\net6.0\ref\Repositorio.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Repositorio\bin\Release\net6.0\Repositorio.deps.json
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Repositorio\bin\Release\net6.0\Repositorio.runtimeconfig.json
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Repositorio\bin\Release\net6.0\Repositorio.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Repositorio\bin\Release\net6.0\Repositorio.pdb
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Repositorio\bin\Release\net6.0\Modelos.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Repositorio\bin\Release\net6.0\Utilitarios.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Repositorio\bin\Release\net6.0\Modelos.pdb
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Repositorio\bin\Release\net6.0\Utilitarios.pdb
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Repositorio\obj\Release\net6.0\Repositorio.csproj.AssemblyReference.cache
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Repositorio\obj\Release\net6.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Repositorio\obj\Release\net6.0\Repositorio.AssemblyInfoInputs.cache
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Repositorio\obj\Release\net6.0\Repositorio.AssemblyInfo.cs
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Repositorio\obj\Release\net6.0\Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Repositorio\obj\Release\net6.0\Reposito.F4C96B80.Up2Date
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Repositorio\obj\Release\net6.0\Repositorio.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Repositorio\obj\Release\net6.0\refint\Repositorio.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Repositorio\obj\Release\net6.0\Repositorio.pdb
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Repositorio\obj\Release\net6.0\Repositorio.genruntimeconfig.cache
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Repositorio\obj\Release\net6.0\ref\Repositorio.dll

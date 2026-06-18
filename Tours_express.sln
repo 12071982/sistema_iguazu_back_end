@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.6.11822.322 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 presentacion", "01 presentacion", "{23FB7434-EA32-4A84-AB53-92DE4B50ED9C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 logica", "02 logica", "{55651FDE-1721-4D06-8B9E-2F4AC74AB3AC}"
+	ProjectSection(SolutionItems) = preProject
+		Logica\ClienteLogica.cs = Logica\ClienteLogica.cs
+		Logica\ErrorLogica.cs = Logica\ErrorLogica.cs
+		Logica\UsuarioLogica.cs = Logica\UsuarioLogica.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 repositorio", "03 repositorio", "{0787F780-5E33-4CD1-A45D-1CF16AF41657}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 modelos", "04 modelos", "{121E2050-2209-4A80-B11F-D26A675C0C75}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modelos", "Modelos\Modelos.csproj", "{9A0A3C00-4520-46DF-B2A3-B6A365DEB3FD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repositorio", "Repositorio\Repositorio.csproj", "{537DF11D-232C-4F15-A64D-C886EDBA6E2A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logica", "Logica\Logica.csproj", "{5E123A9B-8525-4521-8859-C6B142635DCD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tours_Express", "PersonalApi\Tours_Express.csproj", "{3CC32663-B7BA-4BC9-8A39-3C870AF05B5A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 Util", "05 Util", "{EFF4E79A-A391-41FA-9F42-3C2A9B98EEA0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Utilitarios", "Utilitarios\Utilitarios.csproj", "{10E2A6C9-2BAC-4503-B3DF-F3B978BE5BA7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06 Servicios", "06 Servicios", "{A9AD234E-17E6-4FEC-9452-EB05F340C631}"
+	ProjectSection(SolutionItems) = preProject
+		EmailService.cs = EmailService.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A0A3C00-4520-46DF-B2A3-B6A365DEB3FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A0A3C00-4520-46DF-B2A3-B6A365DEB3FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A0A3C00-4520-46DF-B2A3-B6A365DEB3FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A0A3C00-4520-46DF-B2A3-B6A365DEB3FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{537DF11D-232C-4F15-A64D-C886EDBA6E2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{537DF11D-232C-4F15-A64D-C886EDBA6E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{537DF11D-232C-4F15-A64D-C886EDBA6E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{537DF11D-232C-4F15-A64D-C886EDBA6E2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E123A9B-8525-4521-8859-C6B142635DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E123A9B-8525-4521-8859-C6B142635DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E123A9B-8525-4521-8859-C6B142635DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E123A9B-8525-4521-8859-C6B142635DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CC32663-B7BA-4BC9-8A39-3C870AF05B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC32663-B7BA-4BC9-8A39-3C870AF05B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC32663-B7BA-4BC9-8A39-3C870AF05B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC32663-B7BA-4BC9-8A39-3C870AF05B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10E2A6C9-2BAC-4503-B3DF-F3B978BE5BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10E2A6C9-2BAC-4503-B3DF-F3B978BE5BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10E2A6C9-2BAC-4503-B3DF-F3B978BE5BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10E2A6C9-2BAC-4503-B3DF-F3B978BE5BA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9A0A3C00-4520-46DF-B2A3-B6A365DEB3FD} = {121E2050-2209-4A80-B11F-D26A675C0C75}
+		{537DF11D-232C-4F15-A64D-C886EDBA6E2A} = {0787F780-5E33-4CD1-A45D-1CF16AF41657}
+		{5E123A9B-8525-4521-8859-C6B142635DCD} = {55651FDE-1721-4D06-8B9E-2F4AC74AB3AC}
+		{3CC32663-B7BA-4BC9-8A39-3C870AF05B5A} = {23FB7434-EA32-4A84-AB53-92DE4B50ED9C}
+		{10E2A6C9-2BAC-4503-B3DF-F3B978BE5BA7} = {EFF4E79A-A391-41FA-9F42-3C2A9B98EEA0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E0BB838-56C5-4961-BB0C-001409552E56}
+	EndGlobalSection
+EndGlobal

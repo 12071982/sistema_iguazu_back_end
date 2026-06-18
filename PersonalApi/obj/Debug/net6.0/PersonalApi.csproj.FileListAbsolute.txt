@@ -1,0 +1,851 @@
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\appsettings.Development.json
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\appsettings.json
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.exe
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.deps.json
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.runtimeconfig.json
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Logica.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Modelos.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Repositorio.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Logica.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Modelos.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Repositorio.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.AssemblyReference.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.AssemblyInfoInputs.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.AssemblyInfo.cs
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.CoreCompileInputs.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.MvcApplicationPartsAssemblyInfo.cs
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.MvcApplicationPartsAssemblyInfo.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\staticwebassets.build.json
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\staticwebassets.development.json
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\scopedcss\bundle\PersonalApi.styles.css
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.CopyComplete
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\ref\PersonalApi.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.genruntimeconfig.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Humanizer.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Utilitarios.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Utilitarios.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\refint\PersonalApi.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\appsettings.json
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.exe
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.deps.json
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.runtimeconfig.json
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Humanizer.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Logica.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Modelos.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Repositorio.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Utilitarios.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Logica.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Utilitarios.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Modelos.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Repositorio.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.AssemblyReference.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.AssemblyInfoInputs.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.AssemblyInfo.cs
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.CoreCompileInputs.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\scopedcss\bundle\PersonalApi.styles.css
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.CopyComplete
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\refint\PersonalApi.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.genruntimeconfig.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\ref\PersonalApi.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\appsettings.json
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.exe
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.deps.json
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.runtimeconfig.json
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Humanizer.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Logica.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Modelos.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Repositorio.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Utilitarios.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Logica.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Utilitarios.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Modelos.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Repositorio.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.AssemblyReference.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.AssemblyInfoInputs.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.AssemblyInfo.cs
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.CoreCompileInputs.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\scopedcss\bundle\PersonalApi.styles.css
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.CopyComplete
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\refint\PersonalApi.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.genruntimeconfig.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\ref\PersonalApi.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.AssemblyReference.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.AssemblyInfoInputs.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.AssemblyInfo.cs
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.CoreCompileInputs.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\refint\PersonalApi.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\appsettings.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.exe
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.deps.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.runtimeconfig.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Humanizer.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Logica.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Modelos.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Repositorio.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Utilitarios.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Logica.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Utilitarios.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Modelos.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Repositorio.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\scopedcss\bundle\PersonalApi.styles.css
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.CopyComplete
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.genruntimeconfig.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\ref\PersonalApi.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\appsettings.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.exe
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.deps.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.runtimeconfig.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\PersonalApi.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Humanizer.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Logica.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Modelos.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Repositorio.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Utilitarios.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Logica.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Utilitarios.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Modelos.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\bin\Debug\net6.0\Repositorio.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.AssemblyReference.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.AssemblyInfoInputs.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.AssemblyInfo.cs
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.CoreCompileInputs.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\scopedcss\bundle\PersonalApi.styles.css
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.CopyComplete
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\refint\PersonalApi.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\PersonalApi.genruntimeconfig.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\PersonalApi\obj\Debug\net6.0\ref\PersonalApi.dll
+D:\LM\LastmenBackend\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.AssemblyReference.cache
+D:\LM\LastmenBackend\PersonalApi\obj\Debug\net6.0\PersonalApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\LM\LastmenBackend\PersonalApi\obj\Debug\net6.0\PersonalApi.AssemblyInfoInputs.cache
+D:\LM\LastmenBackend\PersonalApi\obj\Debug\net6.0\PersonalApi.AssemblyInfo.cs
+D:\LM\LastmenBackend\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.CoreCompileInputs.cache
+D:\LM\LastmenBackend\PersonalApi\obj\Debug\net6.0\PersonalApi.MvcApplicationPartsAssemblyInfo.cs
+D:\LM\LastmenBackend\PersonalApi\obj\Debug\net6.0\PersonalApi.MvcApplicationPartsAssemblyInfo.cache
+D:\LM\LastmenBackend\PersonalApi\obj\Debug\net6.0\PersonalApi.dll
+D:\LM\LastmenBackend\PersonalApi\obj\Debug\net6.0\refint\PersonalApi.dll
+D:\LM\LastmenBackend\PersonalApi\obj\Debug\net6.0\PersonalApi.pdb
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\appsettings.Development.json
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\appsettings.json
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\PersonalApi.exe
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\PersonalApi.deps.json
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\PersonalApi.runtimeconfig.json
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\PersonalApi.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\PersonalApi.pdb
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\Humanizer.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\Logica.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\Modelos.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\Repositorio.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\Utilitarios.dll
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\Logica.pdb
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\Utilitarios.pdb
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\Modelos.pdb
+D:\LM\LastmenBackend\PersonalApi\bin\Debug\net6.0\Repositorio.pdb
+D:\LM\LastmenBackend\PersonalApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\LM\LastmenBackend\PersonalApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\LM\LastmenBackend\PersonalApi\obj\Debug\net6.0\scopedcss\bundle\PersonalApi.styles.css
+D:\LM\LastmenBackend\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.CopyComplete
+D:\LM\LastmenBackend\PersonalApi\obj\Debug\net6.0\PersonalApi.genruntimeconfig.cache
+D:\LM\LastmenBackend\PersonalApi\obj\Debug\net6.0\ref\PersonalApi.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\appsettings.Development.json
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\appsettings.json
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\PersonalApi.exe
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\PersonalApi.deps.json
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\PersonalApi.runtimeconfig.json
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\PersonalApi.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\PersonalApi.pdb
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\Humanizer.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\Logica.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\Modelos.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\Repositorio.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\Utilitarios.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\Logica.pdb
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\Utilitarios.pdb
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\Modelos.pdb
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\Repositorio.pdb
+E:\Lasnet\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.AssemblyReference.cache
+E:\Lasnet\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lasnet\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.AssemblyInfoInputs.cache
+E:\Lasnet\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.AssemblyInfo.cs
+E:\Lasnet\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.CoreCompileInputs.cache
+E:\Lasnet\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Lasnet\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Lasnet\BackendLastmen\PersonalApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\Lasnet\BackendLastmen\PersonalApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\Lasnet\BackendLastmen\PersonalApi\obj\Debug\net6.0\scopedcss\bundle\PersonalApi.styles.css
+E:\Lasnet\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.CopyComplete
+E:\Lasnet\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.dll
+E:\Lasnet\BackendLastmen\PersonalApi\obj\Debug\net6.0\refint\PersonalApi.dll
+E:\Lasnet\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.pdb
+E:\Lasnet\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.genruntimeconfig.cache
+E:\Lasnet\BackendLastmen\PersonalApi\obj\Debug\net6.0\ref\PersonalApi.dll
+E:\Lasnet\BackendLastmen\PersonalApi\bin\Debug\net6.0\PersonalApi.staticwebassets.runtime.json
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\appsettings.Development.json
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\appsettings.json
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\PersonalApi.staticwebassets.runtime.json
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\PersonalApi.exe
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\PersonalApi.deps.json
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\PersonalApi.runtimeconfig.json
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\PersonalApi.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\PersonalApi.pdb
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\Humanizer.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\Logica.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\Modelos.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\Repositorio.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\Utilitarios.dll
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\Logica.pdb
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\Utilitarios.pdb
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\Modelos.pdb
+E:\Lastmen\BackendLastmen\PersonalApi\bin\Debug\net6.0\Repositorio.pdb
+E:\Lastmen\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.AssemblyReference.cache
+E:\Lastmen\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lastmen\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.AssemblyInfoInputs.cache
+E:\Lastmen\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.AssemblyInfo.cs
+E:\Lastmen\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.CoreCompileInputs.cache
+E:\Lastmen\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Lastmen\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Lastmen\BackendLastmen\PersonalApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\Lastmen\BackendLastmen\PersonalApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\Lastmen\BackendLastmen\PersonalApi\obj\Debug\net6.0\scopedcss\bundle\PersonalApi.styles.css
+E:\Lastmen\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.CopyComplete
+E:\Lastmen\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.dll
+E:\Lastmen\BackendLastmen\PersonalApi\obj\Debug\net6.0\refint\PersonalApi.dll
+E:\Lastmen\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.pdb
+E:\Lastmen\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.genruntimeconfig.cache
+E:\Lastmen\BackendLastmen\PersonalApi\obj\Debug\net6.0\ref\PersonalApi.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\appsettings.Development.json
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\appsettings.json
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\PersonalApi.staticwebassets.runtime.json
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\PersonalApi.exe
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\PersonalApi.deps.json
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\PersonalApi.runtimeconfig.json
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\PersonalApi.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\PersonalApi.pdb
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\Humanizer.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\Logica.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\Modelos.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\Repositorio.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\Utilitarios.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\Logica.pdb
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\Utilitarios.pdb
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\Modelos.pdb
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\bin\Debug\net6.0\Repositorio.pdb
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.AssemblyReference.cache
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.AssemblyInfoInputs.cache
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.AssemblyInfo.cs
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.CoreCompileInputs.cache
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.MvcApplicationPartsAssemblyInfo.cs
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.MvcApplicationPartsAssemblyInfo.cache
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\obj\Debug\net6.0\scopedcss\bundle\PersonalApi.styles.css
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.CopyComplete
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\obj\Debug\net6.0\refint\PersonalApi.dll
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.pdb
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.genruntimeconfig.cache
+D:\PROYECTO\APP WEB\BackendLastmen\PersonalApi\obj\Debug\net6.0\ref\PersonalApi.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\appsettings.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\PersonalApi.staticwebassets.runtime.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\PersonalApi.exe
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\PersonalApi.deps.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\PersonalApi.runtimeconfig.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\PersonalApi.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\PersonalApi.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\Humanizer.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\Logica.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\Modelos.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\Repositorio.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\Utilitarios.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\Logica.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\Utilitarios.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\Modelos.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\bin\Debug\net6.0\Repositorio.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.AssemblyReference.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\obj\Debug\net6.0\PersonalApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\obj\Debug\net6.0\PersonalApi.AssemblyInfoInputs.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\obj\Debug\net6.0\PersonalApi.AssemblyInfo.cs
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.CoreCompileInputs.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\obj\Debug\net6.0\PersonalApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\obj\Debug\net6.0\PersonalApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\obj\Debug\net6.0\scopedcss\bundle\PersonalApi.styles.css
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.CopyComplete
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\obj\Debug\net6.0\PersonalApi.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\obj\Debug\net6.0\refint\PersonalApi.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\obj\Debug\net6.0\PersonalApi.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\obj\Debug\net6.0\PersonalApi.genruntimeconfig.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\PersonalApi\obj\Debug\net6.0\ref\PersonalApi.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\appsettings.json
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\PersonalApi.staticwebassets.runtime.json
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\PersonalApi.exe
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\PersonalApi.deps.json
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\PersonalApi.runtimeconfig.json
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\PersonalApi.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\PersonalApi.pdb
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\Humanizer.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\Logica.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\Modelos.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\Repositorio.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\Utilitarios.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\Logica.pdb
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\Utilitarios.pdb
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\Modelos.pdb
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\bin\Debug\net6.0\Repositorio.pdb
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.AssemblyReference.cache
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.AssemblyInfoInputs.cache
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.AssemblyInfo.cs
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.CoreCompileInputs.cache
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\obj\Debug\net6.0\scopedcss\bundle\PersonalApi.styles.css
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.CopyComplete
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\obj\Debug\net6.0\refint\PersonalApi.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.pdb
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\obj\Debug\net6.0\PersonalApi.genruntimeconfig.cache
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\obj\Debug\net6.0\ref\PersonalApi.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\appsettings.Development.json
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\appsettings.json
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\PersonalApi.staticwebassets.runtime.json
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\PersonalApi.exe
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\PersonalApi.deps.json
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\PersonalApi.runtimeconfig.json
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\PersonalApi.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\PersonalApi.pdb
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\Humanizer.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\Logica.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\Modelos.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\Repositorio.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\Utilitarios.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\Logica.pdb
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\Utilitarios.pdb
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\Modelos.pdb
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\bin\Debug\net6.0\Repositorio.pdb
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.AssemblyReference.cache
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\obj\Debug\net6.0\PersonalApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\obj\Debug\net6.0\PersonalApi.AssemblyInfoInputs.cache
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\obj\Debug\net6.0\PersonalApi.AssemblyInfo.cs
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.CoreCompileInputs.cache
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\obj\Debug\net6.0\PersonalApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\obj\Debug\net6.0\PersonalApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\obj\Debug\net6.0\scopedcss\bundle\PersonalApi.styles.css
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\obj\Debug\net6.0\PersonalApi.csproj.CopyComplete
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\obj\Debug\net6.0\PersonalApi.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\obj\Debug\net6.0\refint\PersonalApi.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\obj\Debug\net6.0\PersonalApi.pdb
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\obj\Debug\net6.0\PersonalApi.genruntimeconfig.cache
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\PersonalApi\obj\Debug\net6.0\ref\PersonalApi.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\obj\Debug\net6.0\staticwebassets\msbuild.PersonalApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\obj\Debug\net6.0\staticwebassets\msbuild.build.PersonalApi.props
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PersonalApi.props
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PersonalApi.props
+D:\Z-PROYECTO\3. app web\BackendLastmen\PersonalApi\obj\Debug\net6.0\staticwebassets.pack.json

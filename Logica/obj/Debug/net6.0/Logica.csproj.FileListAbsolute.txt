@@ -1,0 +1,315 @@
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.deps.json
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\bin\Debug\net6.0\Modelos.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\bin\Debug\net6.0\Repositorio.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\bin\Debug\net6.0\Repositorio.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\bin\Debug\net6.0\Modelos.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.CopyComplete
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\ref\Logica.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.runtimeconfig.json
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.genruntimeconfig.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\refint\Logica.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.deps.json
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.runtimeconfig.json
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\bin\Debug\net6.0\Modelos.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\bin\Debug\net6.0\Repositorio.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\bin\Debug\net6.0\Repositorio.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\bin\Debug\net6.0\Modelos.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.CopyComplete
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\obj\Debug\net6.0\refint\Logica.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.genruntimeconfig.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\obj\Debug\net6.0\ref\Logica.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\bin\Debug\net6.0\Utilitarios.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\bin\Debug\net6.0\Utilitarios.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.deps.json
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.runtimeconfig.json
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\bin\Debug\net6.0\Modelos.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\bin\Debug\net6.0\Repositorio.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\bin\Debug\net6.0\Utilitarios.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\bin\Debug\net6.0\Repositorio.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\bin\Debug\net6.0\Modelos.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\bin\Debug\net6.0\Utilitarios.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.CopyComplete
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\obj\Debug\net6.0\refint\Logica.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.genruntimeconfig.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\obj\Debug\net6.0\ref\Logica.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.deps.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.runtimeconfig.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\bin\Debug\net6.0\Modelos.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\bin\Debug\net6.0\Repositorio.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\bin\Debug\net6.0\Utilitarios.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\bin\Debug\net6.0\Repositorio.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\bin\Debug\net6.0\Modelos.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\bin\Debug\net6.0\Utilitarios.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.CopyComplete
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\refint\Logica.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.genruntimeconfig.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\ref\Logica.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.deps.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.runtimeconfig.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\bin\Debug\net6.0\Modelos.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\bin\Debug\net6.0\Repositorio.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\bin\Debug\net6.0\Utilitarios.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\bin\Debug\net6.0\Repositorio.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\bin\Debug\net6.0\Modelos.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\bin\Debug\net6.0\Utilitarios.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.CopyComplete
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\refint\Logica.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.genruntimeconfig.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\ref\Logica.dll
+D:\LM\LastmenBackend\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+D:\LM\LastmenBackend\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+D:\LM\LastmenBackend\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+D:\LM\LastmenBackend\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+D:\LM\LastmenBackend\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+D:\LM\LastmenBackend\Logica\obj\Debug\net6.0\Logica.dll
+D:\LM\LastmenBackend\Logica\obj\Debug\net6.0\refint\Logica.dll
+D:\LM\LastmenBackend\Logica\obj\Debug\net6.0\Logica.pdb
+D:\LM\LastmenBackend\Logica\bin\Debug\net6.0\Logica.deps.json
+D:\LM\LastmenBackend\Logica\bin\Debug\net6.0\Logica.runtimeconfig.json
+D:\LM\LastmenBackend\Logica\bin\Debug\net6.0\Logica.dll
+D:\LM\LastmenBackend\Logica\bin\Debug\net6.0\Logica.pdb
+D:\LM\LastmenBackend\Logica\bin\Debug\net6.0\Modelos.dll
+D:\LM\LastmenBackend\Logica\bin\Debug\net6.0\Repositorio.dll
+D:\LM\LastmenBackend\Logica\bin\Debug\net6.0\Utilitarios.dll
+D:\LM\LastmenBackend\Logica\bin\Debug\net6.0\Repositorio.pdb
+D:\LM\LastmenBackend\Logica\bin\Debug\net6.0\Modelos.pdb
+D:\LM\LastmenBackend\Logica\bin\Debug\net6.0\Utilitarios.pdb
+D:\LM\LastmenBackend\Logica\obj\Debug\net6.0\Logica.csproj.CopyComplete
+D:\LM\LastmenBackend\Logica\obj\Debug\net6.0\Logica.genruntimeconfig.cache
+D:\LM\LastmenBackend\Logica\obj\Debug\net6.0\ref\Logica.dll
+E:\Lasnet\BackendLastmen\Logica\bin\Debug\net6.0\Logica.deps.json
+E:\Lasnet\BackendLastmen\Logica\bin\Debug\net6.0\Logica.runtimeconfig.json
+E:\Lasnet\BackendLastmen\Logica\bin\Debug\net6.0\Logica.dll
+E:\Lasnet\BackendLastmen\Logica\bin\Debug\net6.0\Logica.pdb
+E:\Lasnet\BackendLastmen\Logica\bin\Debug\net6.0\Modelos.dll
+E:\Lasnet\BackendLastmen\Logica\bin\Debug\net6.0\Repositorio.dll
+E:\Lasnet\BackendLastmen\Logica\bin\Debug\net6.0\Utilitarios.dll
+E:\Lasnet\BackendLastmen\Logica\bin\Debug\net6.0\Repositorio.pdb
+E:\Lasnet\BackendLastmen\Logica\bin\Debug\net6.0\Modelos.pdb
+E:\Lasnet\BackendLastmen\Logica\bin\Debug\net6.0\Utilitarios.pdb
+E:\Lasnet\BackendLastmen\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+E:\Lasnet\BackendLastmen\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lasnet\BackendLastmen\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+E:\Lasnet\BackendLastmen\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+E:\Lasnet\BackendLastmen\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+E:\Lasnet\BackendLastmen\Logica\obj\Debug\net6.0\Logica.csproj.CopyComplete
+E:\Lasnet\BackendLastmen\Logica\obj\Debug\net6.0\Logica.dll
+E:\Lasnet\BackendLastmen\Logica\obj\Debug\net6.0\refint\Logica.dll
+E:\Lasnet\BackendLastmen\Logica\obj\Debug\net6.0\Logica.pdb
+E:\Lasnet\BackendLastmen\Logica\obj\Debug\net6.0\Logica.genruntimeconfig.cache
+E:\Lasnet\BackendLastmen\Logica\obj\Debug\net6.0\ref\Logica.dll
+E:\Lastmen\BackendLastmen\Logica\bin\Debug\net6.0\Logica.deps.json
+E:\Lastmen\BackendLastmen\Logica\bin\Debug\net6.0\Logica.runtimeconfig.json
+E:\Lastmen\BackendLastmen\Logica\bin\Debug\net6.0\Logica.dll
+E:\Lastmen\BackendLastmen\Logica\bin\Debug\net6.0\Logica.pdb
+E:\Lastmen\BackendLastmen\Logica\bin\Debug\net6.0\Modelos.dll
+E:\Lastmen\BackendLastmen\Logica\bin\Debug\net6.0\Repositorio.dll
+E:\Lastmen\BackendLastmen\Logica\bin\Debug\net6.0\Utilitarios.dll
+E:\Lastmen\BackendLastmen\Logica\bin\Debug\net6.0\Repositorio.pdb
+E:\Lastmen\BackendLastmen\Logica\bin\Debug\net6.0\Modelos.pdb
+E:\Lastmen\BackendLastmen\Logica\bin\Debug\net6.0\Utilitarios.pdb
+E:\Lastmen\BackendLastmen\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+E:\Lastmen\BackendLastmen\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lastmen\BackendLastmen\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+E:\Lastmen\BackendLastmen\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+E:\Lastmen\BackendLastmen\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+E:\Lastmen\BackendLastmen\Logica\obj\Debug\net6.0\Logica.csproj.CopyComplete
+E:\Lastmen\BackendLastmen\Logica\obj\Debug\net6.0\Logica.dll
+E:\Lastmen\BackendLastmen\Logica\obj\Debug\net6.0\refint\Logica.dll
+E:\Lastmen\BackendLastmen\Logica\obj\Debug\net6.0\Logica.pdb
+E:\Lastmen\BackendLastmen\Logica\obj\Debug\net6.0\Logica.genruntimeconfig.cache
+E:\Lastmen\BackendLastmen\Logica\obj\Debug\net6.0\ref\Logica.dll
+D:\PROYECTO\APP WEB\BackendLastmen\Logica\bin\Debug\net6.0\Logica.deps.json
+D:\PROYECTO\APP WEB\BackendLastmen\Logica\bin\Debug\net6.0\Logica.runtimeconfig.json
+D:\PROYECTO\APP WEB\BackendLastmen\Logica\bin\Debug\net6.0\Logica.dll
+D:\PROYECTO\APP WEB\BackendLastmen\Logica\bin\Debug\net6.0\Logica.pdb
+D:\PROYECTO\APP WEB\BackendLastmen\Logica\bin\Debug\net6.0\Modelos.dll
+D:\PROYECTO\APP WEB\BackendLastmen\Logica\bin\Debug\net6.0\Repositorio.dll
+D:\PROYECTO\APP WEB\BackendLastmen\Logica\bin\Debug\net6.0\Utilitarios.dll
+D:\PROYECTO\APP WEB\BackendLastmen\Logica\bin\Debug\net6.0\Repositorio.pdb
+D:\PROYECTO\APP WEB\BackendLastmen\Logica\bin\Debug\net6.0\Modelos.pdb
+D:\PROYECTO\APP WEB\BackendLastmen\Logica\bin\Debug\net6.0\Utilitarios.pdb
+D:\PROYECTO\APP WEB\BackendLastmen\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+D:\PROYECTO\APP WEB\BackendLastmen\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTO\APP WEB\BackendLastmen\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+D:\PROYECTO\APP WEB\BackendLastmen\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+D:\PROYECTO\APP WEB\BackendLastmen\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+D:\PROYECTO\APP WEB\BackendLastmen\Logica\obj\Debug\net6.0\Logica.csproj.CopyComplete
+D:\PROYECTO\APP WEB\BackendLastmen\Logica\obj\Debug\net6.0\Logica.dll
+D:\PROYECTO\APP WEB\BackendLastmen\Logica\obj\Debug\net6.0\refint\Logica.dll
+D:\PROYECTO\APP WEB\BackendLastmen\Logica\obj\Debug\net6.0\Logica.pdb
+D:\PROYECTO\APP WEB\BackendLastmen\Logica\obj\Debug\net6.0\Logica.genruntimeconfig.cache
+D:\PROYECTO\APP WEB\BackendLastmen\Logica\obj\Debug\net6.0\ref\Logica.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Logica\bin\Debug\net6.0\Logica.deps.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Logica\bin\Debug\net6.0\Logica.runtimeconfig.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Logica\bin\Debug\net6.0\Logica.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Logica\bin\Debug\net6.0\Logica.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Logica\bin\Debug\net6.0\Modelos.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Logica\bin\Debug\net6.0\Repositorio.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Logica\bin\Debug\net6.0\Utilitarios.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Logica\bin\Debug\net6.0\Repositorio.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Logica\bin\Debug\net6.0\Modelos.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Logica\bin\Debug\net6.0\Utilitarios.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Logica\obj\Debug\net6.0\Logica.csproj.CopyComplete
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Logica\obj\Debug\net6.0\Logica.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Logica\obj\Debug\net6.0\refint\Logica.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Logica\obj\Debug\net6.0\Logica.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Logica\obj\Debug\net6.0\Logica.genruntimeconfig.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\Backend-lastmen2023\Logica\obj\Debug\net6.0\ref\Logica.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\Logica\bin\Debug\net6.0\Logica.deps.json
+D:\Z-PROYECTO\3. app web\BackendLastmen\Logica\bin\Debug\net6.0\Logica.runtimeconfig.json
+D:\Z-PROYECTO\3. app web\BackendLastmen\Logica\bin\Debug\net6.0\Logica.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\Logica\bin\Debug\net6.0\Logica.pdb
+D:\Z-PROYECTO\3. app web\BackendLastmen\Logica\bin\Debug\net6.0\Modelos.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\Logica\bin\Debug\net6.0\Repositorio.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\Logica\bin\Debug\net6.0\Utilitarios.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\Logica\bin\Debug\net6.0\Repositorio.pdb
+D:\Z-PROYECTO\3. app web\BackendLastmen\Logica\bin\Debug\net6.0\Modelos.pdb
+D:\Z-PROYECTO\3. app web\BackendLastmen\Logica\bin\Debug\net6.0\Utilitarios.pdb
+D:\Z-PROYECTO\3. app web\BackendLastmen\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+D:\Z-PROYECTO\3. app web\BackendLastmen\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Z-PROYECTO\3. app web\BackendLastmen\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+D:\Z-PROYECTO\3. app web\BackendLastmen\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+D:\Z-PROYECTO\3. app web\BackendLastmen\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+D:\Z-PROYECTO\3. app web\BackendLastmen\Logica\obj\Debug\net6.0\Logica.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\Logica\obj\Debug\net6.0\refint\Logica.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\Logica\obj\Debug\net6.0\Logica.pdb
+D:\Z-PROYECTO\3. app web\BackendLastmen\Logica\obj\Debug\net6.0\Logica.genruntimeconfig.cache
+D:\Z-PROYECTO\3. app web\BackendLastmen\Logica\obj\Debug\net6.0\ref\Logica.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Logica\bin\Debug\net6.0\Logica.deps.json
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Logica\bin\Debug\net6.0\Logica.runtimeconfig.json
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Logica\bin\Debug\net6.0\Logica.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Logica\bin\Debug\net6.0\Logica.pdb
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Logica\bin\Debug\net6.0\Modelos.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Logica\bin\Debug\net6.0\Repositorio.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Logica\bin\Debug\net6.0\Utilitarios.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Logica\bin\Debug\net6.0\Repositorio.pdb
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Logica\bin\Debug\net6.0\Modelos.pdb
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Logica\bin\Debug\net6.0\Utilitarios.pdb
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Logica\obj\Debug\net6.0\Logica.csproj.CopyComplete
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Logica\obj\Debug\net6.0\Logica.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Logica\obj\Debug\net6.0\refint\Logica.dll
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Logica\obj\Debug\net6.0\Logica.pdb
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Logica\obj\Debug\net6.0\Logica.genruntimeconfig.cache
+E:\Lastmen\Nueva carpeta\lastmen_app_web_back\Logica\obj\Debug\net6.0\ref\Logica.dll
+D:\Z-PROYECTO\3. app web\BackendLastmen\Logica\obj\Debug\net6.0\Logica.sourcelink.json
+D:\Z-PROYECTO\3. app web\BackendLastmen\Logica\obj\Debug\net6.0\Logica.csproj.Up2Date
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Logica\bin\Debug\net6.0\Logica.deps.json
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Logica\bin\Debug\net6.0\Logica.runtimeconfig.json
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Logica\bin\Debug\net6.0\Logica.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Logica\bin\Debug\net6.0\Logica.pdb
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Logica\bin\Debug\net6.0\Modelos.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Logica\bin\Debug\net6.0\Repositorio.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Logica\bin\Debug\net6.0\Utilitarios.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Logica\bin\Debug\net6.0\Repositorio.pdb
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Logica\bin\Debug\net6.0\Modelos.pdb
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Logica\bin\Debug\net6.0\Utilitarios.pdb
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Logica\obj\Debug\net6.0\Logica.sourcelink.json
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Logica\obj\Debug\net6.0\Logica.csproj.Up2Date
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Logica\obj\Debug\net6.0\Logica.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Logica\obj\Debug\net6.0\refint\Logica.dll
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Logica\obj\Debug\net6.0\Logica.pdb
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Logica\obj\Debug\net6.0\Logica.genruntimeconfig.cache
+D:\Z-PROYECTO\3. app web\Backend_Tours_Express\Logica\obj\Debug\net6.0\ref\Logica.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Logica\bin\Debug\net6.0\Logica.deps.json
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Logica\bin\Debug\net6.0\Logica.runtimeconfig.json
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Logica\bin\Debug\net6.0\Logica.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Logica\bin\Debug\net6.0\Logica.pdb
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Logica\bin\Debug\net6.0\Modelos.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Logica\bin\Debug\net6.0\Repositorio.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Logica\bin\Debug\net6.0\Utilitarios.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Logica\bin\Debug\net6.0\Repositorio.pdb
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Logica\bin\Debug\net6.0\Modelos.pdb
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Logica\bin\Debug\net6.0\Utilitarios.pdb
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Logica\obj\Debug\net6.0\Logica.csproj.Up2Date
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Logica\obj\Debug\net6.0\Logica.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Logica\obj\Debug\net6.0\refint\Logica.dll
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Logica\obj\Debug\net6.0\Logica.pdb
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Logica\obj\Debug\net6.0\Logica.genruntimeconfig.cache
+C:\Users\GIGABYTE\Documents\YESICA\BACKEND\sistema_iguazu_back_end-main\Logica\obj\Debug\net6.0\ref\Logica.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Logica\bin\Debug\net6.0\Logica.deps.json
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Logica\bin\Debug\net6.0\Logica.runtimeconfig.json
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Logica\bin\Debug\net6.0\Logica.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Logica\bin\Debug\net6.0\Logica.pdb
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Logica\bin\Debug\net6.0\Modelos.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Logica\bin\Debug\net6.0\Repositorio.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Logica\bin\Debug\net6.0\Utilitarios.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Logica\bin\Debug\net6.0\Repositorio.pdb
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Logica\bin\Debug\net6.0\Modelos.pdb
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Logica\bin\Debug\net6.0\Utilitarios.pdb
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Logica\obj\Debug\net6.0\Logica.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Logica\obj\Debug\net6.0\refint\Logica.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Logica\obj\Debug\net6.0\Logica.pdb
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Logica\obj\Debug\net6.0\Logica.genruntimeconfig.cache
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Logica\obj\Debug\net6.0\ref\Logica.dll
+C:\Users\GYGABYTE\Documents\YÉSICA\BACKEND\sistema_iguazu_back_end-main\Logica\obj\Debug\net6.0\Logica.csproj.Up2Date
